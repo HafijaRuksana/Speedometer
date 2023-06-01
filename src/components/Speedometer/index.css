@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #07080c;
+  background-size: cover;
+  padding: 25px;
+  height: 100vh;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.image-style {
+  width: 90%;
+}
+.sub-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
+.accelerate-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+  height: 40px;
+  border-style: none;
+  margin-right: 20px;
+}
+.break-button {
+  background-color: #07080c;
+  color: #94a3b8;
+  border-radius: 7px;
+  border-color: #94a3b8;
+  cursor: pointer;
+  outline: none;
+  height: 40px;
+}
